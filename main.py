@@ -1,6 +1,6 @@
 turn = 0
 
-print('''Welcome to Tic Tac Toe game, have fun
+print('''Welcome to Tic Tac Toe game, have fun!
      |     |     
   1  |  2  |  3  
 _____|_____|_____
